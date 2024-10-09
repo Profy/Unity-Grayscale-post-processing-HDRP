@@ -5,3 +5,6 @@ Simple post-processing for grayscale rendering. Compatible with HDRP. The post-p
 Go to Project Settings > Graphics > HDRP Global Settings > Custom Post Process Order.
 Add it under After Post Process.
 Add the post-processing to a post-process volume.
+
+![screenshot](rgb.png)
+![screenshot](gray.png)
